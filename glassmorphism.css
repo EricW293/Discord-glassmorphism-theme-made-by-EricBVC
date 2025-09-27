@@ -1,0 +1,117 @@
+/**
+ * @name Glassmorphism Theme
+ * @author EricBVC
+ * @version 0.0.9
+ * @description This theme is Designed to make your Discord look like it has privacy glass in the background
+ * @source https://github.com/EricW293/Discord-glassmorphism-theme-made-by-EricBVC
+ * @website https://ericnet.onthewifi.com/links
+ * @invite 7ZHkv5WtwJ
+ */
+
+/*.visual-refresh {
+--custom-app-top-bar-height: 0px;
+}*/
+
+.content_c48ade {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    /*background-image: url(https://wallpapercave.com/uwp/uwp4686458.jpeg) !important;*/
+    background-image: url(https://ericnet.onthewifi.com/assets/images/20240901_163939.jpg) !important;
+    background-position: center !important;
+    background-size: 100% !important;
+}
+
+.page_c48ade {
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* Channels */      /* Servers */    /*                 Main Chat                   */  /*Users on Friends tab*/
+.container__2637a, .wrapper_ef3116, .content_f75fb0, .chatContent_f75fb0, .chat_f75fb0, .privateChannels__35e86, .scroller__99e7c {
+    background-color: transparent !important;
+}
+
+.sidebar_c48ade.theme-dark.images-dark {
+    backdrop-filter: blur(50px) !important;
+}
+
+.slateTextArea_ec4baf {
+    color: white;
+}
+
+.sidebarListRounded_c48ade {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+}
+
+/* Server Members */
+.customTheme__99f8c {
+    color: rgb(220, 220, 20) !important;
+}
+
+.sidebar_c48ade {
+    background-color: rgba(0,0,0,0.7) !important;
+}
+
+
+.members_c8ffbb.thin__99f8c.scrollerBase__99f8c.fade__99f8c {
+    backdrop-filter: blur(50px);
+    background-color: rgba(0,0,0,0.4) !important;
+}
+
+
+:root {
+    --custom-channel-members-bg: transparent !important;
+    --channels-default: #55ff00 !important; /* Server Members Text*/
+    --text-normal: #55ff00 !important; /* Main Chat Text*/
+}
+
+.name__2ea32 {color: rgb(220, 220, 20) !important;} /* Server Channel Text */
+
+.wrapper_c19a55:hover {
+    backdrop-filter: blur(50px);
+    background-color: rgba(0,0,0,0.5) !important;
+}
+
+.wrapper_c19a55 {
+    background-color: rgba(0,0,0,0.4) !important;
+}
+
+.wrapper_c19a55 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: olive;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.theme-dark .children__9293f:after {
+    background: none;
+}
+                                                                            /* Member List*/    /*User Bio DMs*/
+section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, section.theme-dark.images-dark.container__9293f.themed__9293f, .container_c8ffbb, .outer_c0bea0, .tabBody__133bf {
+    background-color: transparent;
+    backdrop-filter: blur(50px);
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* Text Area */
+.scrollableContainer__74017.themedBackground__74017, .channelTextArea_f75fb0.channelTextArea__74017 {
+    background: transparent;
+    backdrop-filter: blur(40px);
+}
+
+
+/* DM user actiatie*/
+
+:where(.overlay_c0bea0), .profile__9c3be {
+    background-color: rgb(120 120 120 / 30%);
+}
+
+.scrim_d9cec8 {
+    background: transparent;
+}
+
+/*people Column and DMs*/
+
+.container__133bf, .nowPlayingColumn__133bf, .container__7d20c {
+    background-color: transparent;
+}
