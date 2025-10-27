@@ -106,12 +106,13 @@ section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, sect
     background-color: rgb(120 120 120 / 30%);
 }
 
-.scrim_d9cec8 {
-    background: transparent;
+.scrim__40128 {
+    background-color: transparent;
 }
 
 /*people Column and DMs*/
 
 .container__133bf, .nowPlayingColumn__133bf, .container__7d20c {
     background-color: transparent;
+
 }
