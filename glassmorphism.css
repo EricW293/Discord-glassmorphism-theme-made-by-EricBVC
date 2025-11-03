@@ -7,11 +7,11 @@
  * @website https://ericnet.onthewifi.com/links
  * @invite 7ZHkv5WtwJ
  */
-
+/*
 .visual-refresh {
 --custom-app-top-bar-height: 0px;
 }
-
+*/
 .content_c48ade, .bg__960e4 {
     background-color: rgba(0, 0, 0, 0.3) !important;
     /*background-image: url(https://wallpapercave.com/uwp/uwp4686458.jpeg) !important;*/
@@ -116,3 +116,4 @@ section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, sect
     background-color: transparent;
 
 }
+
