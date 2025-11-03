@@ -8,11 +8,11 @@
  * @invite 7ZHkv5WtwJ
  */
 
-/*.visual-refresh {
+.visual-refresh {
 --custom-app-top-bar-height: 0px;
-}*/
+}
 
-.content_c48ade {
+.content_c48ade, .bg__960e4 {
     background-color: rgba(0, 0, 0, 0.3) !important;
     /*background-image: url(https://wallpapercave.com/uwp/uwp4686458.jpeg) !important;*/
     background-image: url(https://ericnet.onthewifi.com/assets/images/20240901_163939.jpg) !important;
@@ -87,7 +87,7 @@
     background: none;
 }
                                                                             /* Member List*/    /*User Bio DMs*/
-section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, section.theme-dark.images-dark.container__9293f.themed__9293f, .container_c8ffbb, .outer_c0bea0, .tabBody__133bf {
+section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, section.theme-dark.images-dark.container__9293f.themed__9293f, .guilds__5e434, .sidebar__5e434, .privateChannels_e6b769, .container_c8ffbb, .outer_c0bea0, .tabBody__133bf {
     background-color: transparent;
     backdrop-filter: blur(50px);
     background-color: rgba(0,0,0,0.4);
