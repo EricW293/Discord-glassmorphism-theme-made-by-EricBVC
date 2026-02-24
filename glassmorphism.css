@@ -12,6 +12,7 @@
 --custom-app-top-bar-height: 0px;
 }
 */
+
 .content_c48ade, .bg__960e4 {
     background-color: rgba(0, 0, 0, 0.3) !important;
     /*background-image: url(https://wallpapercave.com/uwp/uwp4686458.jpeg) !important;*/
@@ -72,8 +73,13 @@
 }
 
 .wrapper_c19a55 {
+    backdrop-filter: blur(3px);
     background-color: rgba(0,0,0,0.4) !important;
 }
+
+/*.sidebarList__5e434 {
+    background: rgba(0,0,0,0.4) !important;
+}*/
 
 .wrapper_c19a55 {
     border-style: solid;
@@ -117,3 +123,7 @@ section.title_f75fb0.theme-dark.images-dark.container__9293f.themed__9293f, sect
 
 }
 
+/* User Likes games */
+.container__62dd3 {
+background-color: rgb(120 120 120 / 30%);
+}
